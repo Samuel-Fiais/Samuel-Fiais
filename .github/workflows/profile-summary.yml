@@ -17,8 +17,8 @@ jobs:
       steps:
         - uses: actions/checkout@v4
         - uses: vn7n24fzkq/github-profile-summary-cards@release
-          with:
-            gh_token: ${{ secrets.GH_PAT }}
+          env:
+            GH_TOKEN: ${{ secrets.GH_PAT }}
         - run: |
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
