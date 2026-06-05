@@ -50,13 +50,13 @@ Busco sempre entregar código limpo, funcional e com alto valor agregado ao neg�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/0-profile-github.svg" alt="Profile Summary" />
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/0-profile-github.svg" alt="Profile Summary" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" />
   <br />
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/2-most-commit-language.svg" alt="Top Languages by Commit" />
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/3-streak-stats.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/3-streak-stats.svg" alt="GitHub Streak" />
   <br />
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 <sub>📈 Stats auto-updated daily by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) GitHub Action</sub>
