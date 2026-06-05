@@ -50,11 +50,11 @@ Busco sempre entregar código limpo, funcional e com alto valor agregado ao neg�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/0-profile-github.svg" alt="Profile Summary" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Summary" />
   <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" />
   <br />
   <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" />
-  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/3-streak-stats.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
   <br />
   <img src="https://raw.githubusercontent.com/Samuel-Fiais/Samuel-Fiais/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
 </div>
