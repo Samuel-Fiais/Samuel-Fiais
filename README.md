@@ -49,7 +49,10 @@ Busco sempre entregar código limpo, funcional e com alto valor agregado ao neg�
 
 ## 📊 GitHub Stats
 
-Perfil GitHub: [Samuel-Fiais](https://github.com/Samuel-Fiais)
+<p align='center'>
+  <img src="https://grs-samuel-fiais-2026.vercel.app/api?username=Samuel-Fiais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Samuel-Fiais GitHub stats" />
+  <img src="https://grs-samuel-fiais-2026.vercel.app/api/top-langs/?username=Samuel-Fiais&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Samuel-Fiais top languages" />
+</p>
 
 ## 🤝 Connect
 
